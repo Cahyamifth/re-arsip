@@ -1,5 +1,5 @@
 # Aplikasi Web Re-Arsip – Bank BJB KCP Kosambi
-
+![alt text](https://github.com/Cahyamifth/re-arsip/blob/main/assets/img/re-arsip.PNG?raw=true)
 ## Deskripsi
 
 Aplikasi ini dirancang untuk mempermudah pelayanan bagian administrasi data di bank melalui digitalisasi proses arsip. Dengan aplikasi ini, bank dapat dengan mudah mengelola data arsip secara efisien dan terstruktur.
@@ -27,4 +27,4 @@ Aplikasi ini memiliki dua jenis role user:
 2. **Petugas**
 
 ## Dashboard Aplikasi
-![alt text](?raw=true)
+![alt text](https://github.com/Cahyamifth/re-arsip/blob/main/assets/img/Kredit.PNG?raw=true)
